@@ -14,7 +14,8 @@ def third_challenge
         #your key/value pairs here
         },
       :hero_friends => [{:name => "Benvolio", :age => "17", :attitude => "worried"},
-      {:name => "Mercutio", :age => "18", :attitude => "hot-headed"} ]
+      {:name => "Mercutio", :age => "18", :attitude => "hot-headed"}
+    ]
    },
    :capulet => {
       :patriarch => {
@@ -30,7 +31,8 @@ def third_challenge
         #your key/value pairs here
         },
       :heroine_friends => [{:name => "Steven", :age => "30", :attitude => "confused"},
-      {:name => "Nurse", :age =>"44", :attitude => "worried"} ]
+      {:name => "Nurse", :age =>"44", :attitude => "worried"}
+    ]
    }
   }
 
